@@ -17,3 +17,9 @@
 <img width="2880" height="1914" alt="image" src="https://github.com/user-attachments/assets/d53b16a2-7d54-43a7-8f80-0483860e44df" />
 
 
+Виджеты:
+StatefulWidget, Scaffold, AppBar, Column, Container, Padding, SizedBox, ElevatedButton, Text
+
+Для обновления используется setState()
+
+Обработанные события OnPressed и OnLongPress
